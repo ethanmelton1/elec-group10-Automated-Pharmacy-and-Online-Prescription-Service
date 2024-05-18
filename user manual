@@ -1,0 +1,14 @@
+User manual:
+
+Sign up and log in
+For those user who is the first time using this application, they are asked to sign up an account with their age and gender.
+If you already have an account, enter your username or personal email and corresponding password. If what you entered is correct, it will be redirected to our main interface of the app.
+
+search
+Users are allowed to enter the exact medicine name or their symptom in the search bar. System will automatically match the related result and show it to you. However, our database is not abundant enough yet. We are sorry if the result is not what you expected. 
+
+See detail of medicine
+Click the medicine name and it will redirect you to the medicine detail interface. It will tell you all the detailed information of the medicine including the target population, usage method, frequency of use, etc. It will also show you where you can buy it and its normal price. 
+
+Setting changing
+If you enter anything wrong when you sign up, you are allowed to modify those anytime. Just click the gear icon at the right top, change your setting and click save. 
