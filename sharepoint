@@ -1,0 +1,8 @@
+import math
+
+def main(argv: list[str]):
+    pass
+
+if __name__ == "__main__":
+    import sys
+    main(sys.argv)
